@@ -4,7 +4,8 @@ Projeto executado afim de cumprir requisitos finais da disciplina de front-and.
 # Ponte Solidária
 
 ## Sobre o Projeto
-O **Ponte Solidária** é uma plataforma web criada para ajudar na organização e gestão de doações. O objetivo é facilitar a conectividade entre pessoas que querem ajudar e instituições ou comunidades que precisam de apoio.
+O **Ponte Solidária** 
+é uma plataforma web criada para ajudar na organização e gestão de doações. O objetivo é facilitar a conectividade entre pessoas que querem ajudar e instituições ou comunidades que precisam de apoio.
 
 Esse projeto usa a tecnologia para transformar a forma como as doações são feitas, tornando tudo mais acessível, organizado e eficiente.
 
@@ -26,9 +27,8 @@ O projeto tem como foco aprender e aplicar conceitos básicos de desenvolvimento
 Basta abrir os arquivos HTML no navegador para usar a plataforma e explorar suas funcionalidades.
 
 ## Autor
-Aluno do 1º período de ADS, desenvolvendo este projeto para aprender e contribuir com a sociedade.
+Aluno do 2º período de ADS, desenvolvendo este projeto para aprender e contribuir com a sociedade.
 
 ---
 
-Se quiser ajudar ou tiver dúvidas, fique à vontade para entrar em contato!
-.
+
